@@ -21,8 +21,8 @@ In my Project there are some features which will be easy to the handler to store
 
 # Requirements: 
 
-* visual code studio with C compiler
-* Ubuntu (LINUX)
+* visual code studio Editing the data
+* IDLE (Python 3.10)
 * Github (pushing the code)
 
 
@@ -56,7 +56,7 @@ To store employees data in an application
 In an application software
 
 * When:
-This project had started designed from 2nd of febrauary 2022
+This project had started designed from 4th of April 2022
 
 * How:
 By selecting the neccesary option we can enter the input of an employee and store the information in an application
@@ -81,7 +81,7 @@ By selecting the neccesary option we can enter the input of an employee and stor
       * Enter the basic salary of the employee
       * Enter the employee experience in IT industry
 
-# Best Method Follows
+# Best Method to be Followed
 
    * Had designed the software as a user frinedly to all the IT department who are dealing on record segment.
    Here I am mentioning the detal method of my software 
