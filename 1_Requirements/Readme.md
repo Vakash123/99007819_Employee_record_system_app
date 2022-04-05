@@ -81,36 +81,7 @@ By selecting the neccesary option we can enter the input of an employee and stor
       * Enter the basic salary of the employee
       * Enter the employee experience in IT industry
 
+
 # Best Method to be Followed
 
-   * Had designed the software as a user frinedly to all the IT department who are dealing on record segment.
-   Here I am mentioning the detal method of my software 
-
-   * Add record: 
-       *  In Add record section I had created a function called "Position".
-       *  After adding the record you can type Y/N option to enter the new record.
-         
-   * List record:
-       *  In list record section the output will be shown in a phased manner .
-       *  In list record section the data will moves file cursor to start of the file called "perf".
-
-   * Modify record:
-       * Using the "strcmp", "fseek" and "fwrite" it will compare and override the list of records and will modify the current input provided by the user.
-       * After modifying the particular record it will directly store it in the list of records.
-
-   * Search record:
-       * By providing the Emp_name of the user entire details of that employee name will be shown in the search record
-       * If we had mentioned the wrong name in search record then the error message will be displayed to the user 
-       * After the displaying the error message the software will provide an other chance to type Y/N option to enter the search record.
-
-   * Delete record:
-       *  had created a temp file to store the temporary data 
-       *  Read all the record from the permenant file, If the data matches then it will store in temporary file the rest record wil store  it in permemant file
-       *  After that we need to remove the original file and then rename the temp file name to original file name
-
-   * Exit record: 
-       * After completion of the usage of software you can exit the application by typing an option '6'
- 
-
-
-
+   
