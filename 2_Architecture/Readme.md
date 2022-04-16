@@ -3,19 +3,11 @@
 
   * High Level Design
 
-![HighLevelRequirement](https://user-images.githubusercontent.com/82767035/153707160-462a0b2f-5879-4112-8fa8-692fb18d9737.PNG)
+![str_highlevel](https://user-images.githubusercontent.com/82767035/163661782-a5027f71-0230-464e-a36e-49dee241c1b1.png)
+
 
   * Low Level Design
 
-![LowLevelRequirements](https://user-images.githubusercontent.com/82767035/152648503-3d12a987-51d8-4dd2-8faa-88763fefce14.PNG)
-
-# Behavioural Diagrams
-
-  * HighLevel Diagram 
-
-  ![Highleveldiagrams](https://user-images.githubusercontent.com/82767035/152861414-676189c7-0381-4016-a4c4-0de553a15fd8.PNG)
+![low level](https://user-images.githubusercontent.com/82767035/163683865-57e0f9ce-4590-47f1-966d-d1c2de005d61.png)
 
 
-  * Low level diagram
-
-  ![lowerleveldiagrmas](https://user-images.githubusercontent.com/82767035/152867935-7ed111d4-cff7-4f4a-86c3-60b72db12633.PNG)

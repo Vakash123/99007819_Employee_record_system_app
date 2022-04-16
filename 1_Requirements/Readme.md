@@ -11,12 +11,11 @@ Employee Record System is software built to handle the primary housekeeping func
 # Features :
 
 In my Project there are some features which will be easy to the handler to store the organization data in their application 
- * Adding the employee data in the record 
- * Showing the List of all employees data in the record 
- * Modify the employee name in the records
- * Searching the employee name in the records
- * Delete the employee data in the record
- * Exit the application 
+ * The admin only can access this application 
+ * This software can run through login details 
+ * The data will be stored in variable itself 
+ * This application is used with OOPS, Constructors and encapsulation 
+ * Through this application the user can save time and stored the data in soft copy
 
 
 # Requirements: 
@@ -31,23 +30,22 @@ In my Project there are some features which will be easy to the handler to store
 * Strength:
 
    * Add unlimited number of employee details in this application
-   * After adding a particular employee details we can continue to add another employee details with yes/No option
+   * After adding a particular employee details we can continue to add another employee details 
    * Time saving for an organization to check for the employees data 
    * Removal of manual work for an organization related to employee record system
-   * Accesable to delete the particual data by the name and other inputs by the admin
-   * Accesable to modify the particual data by the name and other inputs by the admin
-   * this application will update the data and show the output in a phased manner
+   * This application will update the data and show the output in a phased manner
    * Exit the application in an easier manner by providing Yes/No option
 
 * Weakness:
 
-   * Need not mention the space between two words (strings) 
-   * we cannot search the particular employee detail in deeper manner
+   * In this application we cant remove the particular employee record 
+   * In this application we cant update the particular employee record 
+   * In this application we cant delete the particular employee record 
 
 # 4W's and 1H
 
 * Who: 
-The IT team of an organization will work on this Employye Record system
+The IT/Admin team of an organization will work on this Employye Record system
 
 * What:
 To store employees data in an application 
@@ -66,22 +64,20 @@ By selecting the neccesary option we can enter the input of an employee and stor
  * High level requirements 
  
     Select anyone of the following: 
-     * Add record
-     * List record
-     * modify record 
-     * search record
-     * Delete record 
-     * Exit  
+     * User Name 
+     * Password
+     * Rest the login page 
+     * Exit the login page 
 
- * low level requirements 
+* low level requirements 
 
-     Enter the following information to the user 
-      * Enter the name of employee
-      * Enter the age of the employee
-      * Enter the basic salary of the employee
-      * Enter the employee experience in IT industry
-
-
-# Best Method to be Followed
-
-   
+     * Employee ID 
+     * Employee Name 
+     * Department Type
+     * Address
+     * City
+     * Contact Details
+     * Date Of Birth
+     * ID proof
+     * Payment Mode
+  
