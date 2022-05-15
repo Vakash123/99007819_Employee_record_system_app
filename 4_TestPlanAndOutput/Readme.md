@@ -6,7 +6,7 @@ Test Plan | Description | Expected I/P | Expected O/P | Actual O/P | Type of Tes
 |HighLevel_01| User Input| enter Login Id| Enter Login ID| Login ID| valid|
 |HighLevel_02| User Input| enter Password| Enter Password| Password| valid| 
 |HighLevel_03| User Input| Reset login | Reset Login| Reset Login| valid| 
-|HighLevel_04| User Input| Exit Login | Exit login| Exam Login| valid| 
+|HighLevel_04| User Input| Exit Login | Exit login| Exit Login| valid| 
 
 
 # Low_Level
