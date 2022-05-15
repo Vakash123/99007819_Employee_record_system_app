@@ -7,9 +7,10 @@ Test Plan | Description | Expected I/P | Expected O/P | Actual O/P | Type of Tes
 |HighLevel_02| User Input| enter Password| Enter Password| Password| valid| 
 |HighLevel_03| User Input| Reset login | Reset Login| Reset Login| valid| 
 |HighLevel_04| User Input| Exit Login | Exit login| Exam Login| valid| 
-|:--:|:--:|:--:|:--:|:--:|:--:|
+
 
 # Low_Level
+Test Plan | Description | Expected I/P | Expected O/P | Actual O/P | Type of Test|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |LowLevel_01| User Input| Employee ID| Employee ID|Employee ID| valid|
 |LowLevel_02| User Input| Employee Name|Employee Name|Employee Name|valid|
@@ -20,6 +21,7 @@ Test Plan | Description | Expected I/P | Expected O/P | Actual O/P | Type of Tes
 |LowLevel_07| User Input|Date Of Birth|Date Of Birth|Date Of Birth|Valid|
 |LowLevel_08| User Input|ID Proof|ID Proof|ID Proof|Valid|
 |LowLevel_09| User Input|Payment|Payment|Payment|Valid|
+
 
 
 
